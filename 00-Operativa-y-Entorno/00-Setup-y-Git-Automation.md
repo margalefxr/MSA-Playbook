@@ -1,10 +1,4 @@
-# 00. Setup, Entorno y Automatización Git/Bash
+# 00. Setup de Entorno, Git, Automatización y Operativa de Auditoría
 
-## 1. Comandos de Inicialización
-`$`bash
-git init -b main
-git remote add origin https://github.com/margalefxr/MSA-Playbook.git
-```
-
-## 2. Automatización con .autosave.sh
-Permite sincronizar cambios a GitHub en un comando ejecutable.
+Para consultar la guía técnica completa sobre la inicialización de repositorios,
+automatización Bash y flujo de trabajo para auditorías, revisa la versión generada en el Playbook.
